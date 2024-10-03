@@ -94,7 +94,7 @@ body{
 
 
 #Skill-HTML {
-    width: 90%;
+    width: 80%;
     border-radius:20px;
     animation: Animate-HTML 4s;
     -webkit-animation: Animate-HTML 4s;
@@ -204,7 +204,7 @@ to {
     -moz-animation: Animate-JS 4s;
     -o-animation: Animate-JS 4s;
     border-radius:20px;
-    width: 65%;
+    width: 40%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -241,7 +241,7 @@ to {
     -moz-animation: Animate-C 4s;
     -o-animation: Animate-C 4s;
     border-radius:20px;
-    width: 40%;
+    width: 60%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
